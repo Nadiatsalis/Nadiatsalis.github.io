@@ -18,10 +18,10 @@ header{
 body{
     margin: 0px;
     padding: 0px;
-    background:url("bg.jpeg");
+    background:url("../img/bg.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-}       
+}
 /*Navigasi*/
 nav ul{
     float: right;
@@ -48,7 +48,7 @@ input{
     border-radius: 8px;
     font-family:Lucida Fax ;
     color: black;
-    position:inherit;    
+    position:inherit;
     font-size: 10px;
 }
 button{
@@ -58,7 +58,7 @@ button{
     border: inherit;
     border-radius: 15px;
     font-family:Lucida Fax ;
-    position:inherit;    
+    position:inherit;
     border-color: white;
     font-size: 10px
 }
@@ -86,8 +86,6 @@ button{
     border-radius: 8px;
     font-family:Lucida Fax ;
     color: black;
-    position:inherit;    
+    position:inherit;
     font-size: 10px;
 }
-
-
