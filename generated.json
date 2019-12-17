@@ -6,18 +6,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "England Moreno",
-        "tglPemberian": "13 januari 2018"
+        "name": "Hepatitis B-1",
       },
       {
         "id": 1,
-        "name": "Stout Hurst",
-        "tglPemberian": "13 januari 2018"
+        "name": "Polio 0",
       },
       {
         "id": 2,
-        "name": "Holloway Mathis",
-        "tglPemberian": "13 januari 2018"
+        "name": " BCG ",
       }
     ]
   },
@@ -28,18 +25,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "Katrina Hensley",
-        "tglPemberian": "13 januari 2018"
+        "name": " Hepatitis B-2",
       },
       {
         "id": 1,
-        "name": "Bonner Mcfadden",
-        "tglPemberian": "13 januari 2018"
+        "name": " Polio 1",
       },
       {
         "id": 2,
-        "name": "Irene Beard",
-        "tglPemberian": "13 januari 2018"
+        "name": " DPT 1",
       }
     ]
   },
@@ -50,18 +44,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "Jana Patterson",
-        "tglPemberian": "13 januari 2018"
+        "name": " Hib 1",
       },
       {
         "id": 1,
-        "name": "Leon Vaughn",
-        "tglPemberian": "13 januari 2018"
+        "name": " PCV 1",
       },
       {
         "id": 2,
-        "name": "Butler Sweeney",
-        "tglPemberian": "13 januari 2018"
+        "name": " Rotavirus 1",
       }
     ]
   },
@@ -72,18 +63,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "Felecia Medina",
-        "tglPemberian": "13 januari 2018"
+        "name": " Hepatitis B-3",
       },
       {
         "id": 1,
-        "name": "Katelyn Lawson",
-        "tglPemberian": "13 januari 2018"
+        "name": " Polio 2",
       },
       {
         "id": 2,
-        "name": "Gabrielle Schwartz",
-        "tglPemberian": "13 januari 2018"
+        "name": " DPT 2",
       }
     ]
   },
@@ -94,18 +82,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "Estelle Smith",
-        "tglPemberian": "13 januari 2018"
+        "name": " Hib 2",
       },
       {
         "id": 1,
-        "name": "Gallegos Richmond",
-        "tglPemberian": "13 januari 2018"
+        "name": " Hepatitis B-4",
       },
       {
         "id": 2,
-        "name": "Dodson West",
-        "tglPemberian": "13 januari 2018"
+        "name": " Polio 3",
       }
     ]
   },
@@ -116,18 +101,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "Juana Russell",
-        "tglPemberian": "13 januari 2018"
+        "name": " DPT 3",
       },
       {
         "id": 1,
-        "name": "Erma Barton",
-        "tglPemberian": "13 januari 2018"
+        "name": " Hib 3",
       },
       {
         "id": 2,
-        "name": "Kristi Knight",
-        "tglPemberian": "13 januari 2018"
+        "name": " PCV 2",
       }
     ]
   },
@@ -138,18 +120,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "Juana Russell",
-        "tglPemberian": "13 januari 2018"
+        "name": " Rotavirus 2",
       },
       {
         "id": 1,
-        "name": "Erma Barton",
-        "tglPemberian": "13 januari 2018"
+        "name": " Hepatitis A",
       },
       {
         "id": 2,
-        "name": "Kristi Knight",
-        "tglPemberian": "13 januari 2018"
+        "name": " PCV 3",
       }
     ]
   },
@@ -160,18 +139,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "Juana Russell",
-        "tglPemberian": "13 januari 2018"
+        "name": " Rotavirus 3",
       },
       {
         "id": 1,
-        "name": "Erma Barton",
-        "tglPemberian": "13 januari 2018"
+        "name": " Influenza",
       },
       {
         "id": 2,
-        "name": "Kristi Knight",
-        "tglPemberian": "13 januari 2018"
+        "name": " Campak 1",
       }
     ]
   },
@@ -182,18 +158,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "Juana Russell",
-        "tglPemberian": "13 januari 2018"
+        "name": " Varisela",
       },
       {
         "id": 1,
-        "name": "Erma Barton",
-        "tglPemberian": "13 januari 2018"
+        "name": " PCV 4",
       },
       {
         "id": 2,
-        "name": "Kristi Knight",
-        "tglPemberian": "13 januari 2018"
+        "name": " Hib 4",
       }
     ]
   },
@@ -204,18 +177,15 @@
     "jenisImunisasi": [
       {
         "id": 0,
-        "name": "Juana Russell",
-        "tglPemberian": "13 januari 2018"
+        "name": " MMR 1",
       },
       {
         "id": 1,
-        "name": "Erma Barton",
-        "tglPemberian": "13 januari 2018"
+        "name": " Polio 4",
       },
       {
         "id": 2,
-        "name": "Kristi Knight",
-        "tglPemberian": "13 januari 2018"
+        "name": " Tifoid ",
       }
     ]
   }
